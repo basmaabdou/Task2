@@ -1,5 +1,5 @@
 
-public class Basma {
+public class basma {
 
    
     public static void main(String[] args) {
