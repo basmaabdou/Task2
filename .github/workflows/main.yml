@@ -16,6 +16,6 @@ jobs:
       - name: 'Testing Github action'
         run: pwd
 
-    steps:
+    
       - name: 'Testing Printing'
         run: echo  Basma
